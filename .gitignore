@@ -1,0 +1,18 @@
+# Configuration #
+.git/
+.vscode/
+
+# Byte-compiled / optimized / DLL files #
+__pycache__
+*.py[cod]
+
+# Sphinx rendered files #
+docs/build/
+docs/source/_static
+docs/source/_templates
+
+# Distribution/Packaging #
+env/
+build/
+*.egg-info/
+dist/
